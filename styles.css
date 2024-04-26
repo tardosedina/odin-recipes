@@ -7,3 +7,16 @@ h1 {
     background-color: lightcoral;
     color: white;
 }
+
+a {
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+div {
+    max-width: 25%;
+    margin: auto;
+    border: 2px dotted;
+    text-align: center;
+}
